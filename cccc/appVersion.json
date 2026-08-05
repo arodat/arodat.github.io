@@ -1,0 +1,9 @@
+{
+  "minVersion": "0.1.1",
+  "latestVersion": "1.1.0",
+  "forceUpdate": false,
+  "storeUrls": {
+    "android": "https://play.google.com/store/apps/details?id=com.arodat.projectcero",
+    "ios": "https://apps.apple.com/app/id0000000000"
+  }
+}
