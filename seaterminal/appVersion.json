@@ -1,0 +1,9 @@
+{
+  "minVersion": "0.1.0",
+  "latestVersion": "0.1.0",
+  "forceUpdate": false,
+  "storeUrls": {
+    "android": "https://play.google.com/store/apps/details?id=com.biayko.seaterminal",
+    "ios": "https://apps.apple.com/app/id0000000000"
+  }
+}
